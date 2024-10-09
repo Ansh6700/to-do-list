@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap');
+*{
+    margin: 0%;
+    padding: 0%;
+    background-color:green
+}
+h1{
+    font-family: "Archivo Black", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.container{
+    padding-left: 35rem;
+}
+#list{
+    width: 20rem;
+    border-radius: 15%;
+}
+button{
+    color:white;
+    width: 5rem;
+}
+#container{
+    padding-left: 35rem;
+    padding-top: 5rem;
+}
+.close{
+    margin-left: 30rem;
+    background-color:red;
+}
+.newdiv{
+    color: black;
+}
